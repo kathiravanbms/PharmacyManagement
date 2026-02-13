@@ -1,9 +1,15 @@
 💊 Pharmacy Management System
+
 📌 Project Objective
+
 The Pharmacy Management System is a web-based application developed using JSP, Servlets, JDBC, and Oracle Database.
+
 The system allows users to:
+
 Add Medicine Records
+
 View Medicine Records
+
 View All Medicine Records
 
 🏗️ Technologies Used
